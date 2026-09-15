@@ -1,7 +1,10 @@
-# Version changelog maintenance
+## Version changelog maintenance
+Whenever repository files are changed, update the numerically latest Markdown file in `versions/` before completing the task.
 
-Whenever repository files are changed, update the numerically latest Markdown file in `versions/` before completing the task. 
+## Agent
+As an LLM, you must use the following rules to update the version changelog.
 
+## Rules
 - Determine the latest version by comparing every numeric segment of filenames such as `0.1.18.md`.
 - Do not create or increment a version file unless the repository's changes list is empty, indicating a new commit, a new version has been pushed.
 - Preserve the existing structure: `Here is everything new in this commit:` followed by concise `- ` bullet points.

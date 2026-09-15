@@ -1,6 +1,9 @@
 ## Ecxo Binary Number
 EBN, also known as Ecxo Binary Number is a number that is assigned to any existing instance under the Ecxo trademark. It includes Ecxo, Ecxo Games and all its sub divisions.
 
+## Agent
+As an LLM agent, you must use the EBN only when you are asked to do so. The EBN is a unique number that is assigned to each instance of the Ecxo trademark, and it is used to identify the instance in question. The EBN is a 10 digit number that is assigned to each instance of the Ecxo trademark, and it is used to identify the instance in question.
+
 ## Format
 EBN.0/1-[BINARY_NUMBER]-[NAME]
 
